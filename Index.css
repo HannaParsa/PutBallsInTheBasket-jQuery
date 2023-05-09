@@ -8,4 +8,8 @@
     height: 50px;
     width: 150px;
     font-weight: bold;
+    position: relative;
+}
+.button:hover {
+    box-shadow: 0px 0px 2px 1px cyan;
 }
