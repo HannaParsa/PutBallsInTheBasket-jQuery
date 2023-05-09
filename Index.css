@@ -4,3 +4,8 @@
     display: flex;
     align-items: center;
 }
+.button {
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
